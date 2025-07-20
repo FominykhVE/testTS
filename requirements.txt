@@ -1,0 +1,16 @@
+certifi==2025.7.14
+cffi==1.17.1
+charset-normalizer==3.4.2
+colorama==0.4.6
+idna==3.10
+pycparser==2.22
+pydub==0.25.1
+requests==2.32.4
+srt==3.5.3
+tqdm==4.67.1
+urllib3==2.5.0
+vosk==0.3.45
+websockets==15.0.1
+pyAudioAnalysis==0.3.14
+scikit-learn==0.24.2
+imbalanced-learn==0.8.1
